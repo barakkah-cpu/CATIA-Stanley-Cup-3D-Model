@@ -1,5 +1,5 @@
 # CATIA Stanley Cup 3D Model
-A parametric 3D model of the Stanley Cup built in CATIA V5 as part of EGR 120 — Introduction to Engineering Design at Embry-Riddle Aeronautical University. What looked straightforward turned into a solid exercise in surface modelling, part design, and assembly — particularly around the lid fixture and rubber seal components.
+A parametric 3D model of the Stanley Cup built in CATIA V5 as part of EGR 120 — Introduction to Engineering Design at Embry-Riddle Aeronautical University. A straightforward turned into a solid exercise in surface modelling, part design, and assembly, especially geometrically complex parts like the lid fixture and rubber seal components.
 
 ## Overview
 The model was built from scratch in CATIA V5, starting with 2D sketches and working up to a fully assembled, coloured, and material-assigned 3D model. The project covered the full part-to-assembly workflow and introduced the challenges of modelling curved and irregular geometry.
